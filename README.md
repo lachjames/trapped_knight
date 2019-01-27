@@ -1,6 +1,6 @@
 # trapped_knight
 
-An examination of the "Trapped Knight" problem, as discussed in the Numberphile video "The Trapped Knight - Numberphile".
+An examination of the "Trapped Knight" problem, as discussed in the Numberphile video "The Trapped Knight - Numberphile", found at https://www.youtube.com/watch?v=RGQe8waGJ4w.
 
 Based on a comment by user "Smt Smt": "What happens if you mark 2084 as already visited before you start the game? Will it still get trapped somewhere else?" - https://www.youtube.com/watch?v=RGQe8waGJ4w&lc=UgxnOQujJFUbGTf13Tp4AaABAg
 
