@@ -4,7 +4,7 @@ An examination of the "Trapped Knight" problem, as discussed in the Numberphile 
 
 Based on a comment by user "Smt Smt": "What happens if you mark 2084 as already visited before you start the game? Will it still get trapped somewhere else?" - https://www.youtube.com/watch?v=RGQe8waGJ4w&lc=UgxnOQujJFUbGTf13Tp4AaABAg
 
-It appears that other users responding to that Numberphile comment have independently written code which does the same as this code does. This codebase was originally developed independently but, once I discovered the detailed discussion below Smt Smt's comment, I was able to improve my code's efficiency considerably and also add some analysis of n-traps.
+It appears that other users responding to that Numberphile comment have written code which does the same sort of thing as this code does. I was able to improve my code's efficiency considerably and also add some analysis of n-traps.
 
 Interestingly, the sequence is non-monotonic but appears to be increasing on average. It would be interesting to look at the distribution of knight-stops probabilistically (what is the probability that the knight will stop at step n, or at value k, etc.)
  
